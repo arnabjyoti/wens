@@ -1,0 +1,38 @@
+.tbl table,
+.tbl tr,
+.tbl td {
+  border: 1px solid black !important;
+  border-collapse: collapse;
+  width: 25%;
+  padding: 5px;
+   -webkit-print-color-adjust: exact;
+  printer-colors: exact  !important;
+  color-adjust: exact !important;
+}
+.tbl table,
+.tbl tr,
+.tbl th{
+  padding: 5px;
+  text-align: left; 
+  width: 25%; 
+  border: 1px solid black !important;
+   -webkit-print-color-adjust: exact;
+  printer-colors: exact  !important;
+  color-adjust: exact !important;  
+}
+.bg-clr{
+  background-color: #d9dadb !important;
+  -webkit-print-color-adjust: exact;
+  printer-colors: exact  !important;
+  color-adjust: exact !important;
+}
+.bg-clr p{
+  font-size: 12px;
+  margin-bottom: 0 !important;
+}
+.dclrsn{
+  font-size: 12px;
+  margin-bottom: 0 !important;
+}
+
+

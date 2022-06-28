@@ -1,0 +1,12 @@
+@page
+{
+	size: A4;
+	margin:0;
+	-webkit-print-color-adjust: exact;
+  printer-colors: exact  !important;
+  color-adjust: exact !important;  
+}
+#print-btn{
+	display: none;
+	visibility: none;
+}
